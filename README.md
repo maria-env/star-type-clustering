@@ -1,27 +1,25 @@
-# Determinación de tipos de estrellas con clustering
-
-Práctica 2 de Machine Learning (Universidad Carlos III de Madrid). Se agrupan estrellas según sus características físicas con técnicas de aprendizaje no supervisado y se comparan los grupos obtenidos con las clases astronómicas reales.
-
-## Qué incluye
-
-- **Codificación y preparación** de los datos.
-- **Reducción de dimensionalidad** con PCA.
-- **Algoritmos de clustering:** K-Means, clustering jerárquico (con dendrogramas) y DBSCAN.
-- **Comparación de algoritmos** con métricas internas (Silhouette y DBCV).
-- **Contraste con las clases astronómicas** reales y discusión de resultados.
-
-## Archivos
-
-- `Cuaderno.ipynb`: cuaderno con todo el análisis.
-
-## Tecnologías
-
+# Star Type Identification with Clustering
+ 
+Machine Learning Project 2 (Universidad Carlos III de Madrid). Stars are grouped by their physical characteristics using unsupervised learning techniques, and the resulting groups are compared with the real astronomical classes.
+ 
+## What's included
+ 
+- **Encoding and preparation** of the data.
+- **Dimensionality reduction** with PCA.
+- **Clustering algorithms:** K-Means, hierarchical clustering (with dendrograms) and DBSCAN.
+- **Algorithm comparison** using internal metrics (Silhouette and DBCV).
+- **Comparison with the real astronomical classes** and discussion of results.
+## Files
+ 
+- `Cuaderno.ipynb`: notebook with the full analysis.
+## Technologies
+ 
 Python · pandas · NumPy · scikit-learn · matplotlib · Jupyter
-
-## Cómo ejecutarlo
-
-Abre `Cuaderno.ipynb` con Jupyter o con Google Colab y ejecuta las celdas en orden.
-
-## Autoría
-
-Trabajo en equipo de María Arias Rodríguez y Jorge Ignacio Castañeda Vallenilla.
+ 
+## How to run
+ 
+Open `Cuaderno.ipynb` with Jupyter or Google Colab and run the cells in order.
+ 
+## Authors
+ 
+Team project by María Arias Rodríguez and Jorge Ignacio Castañeda Vallenilla.
